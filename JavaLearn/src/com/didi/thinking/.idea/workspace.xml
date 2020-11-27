@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="119d5fbb-8512-4a21-a501-0b82337657d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyAbstractClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySonAbstractClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Art.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bowl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cartoon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CatUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplieClassLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cupboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drawing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GunCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InetAddressTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyInvocationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProxyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProxyInvocationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStaticClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyThis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoCClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleEnumUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spiciness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThisClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/URLDecorderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="E:\InstallTools\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jafvwx6IBw1p42alRxIz5Q67g6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="119d5fbb-8512-4a21-a501-0b82337657d4" name="Default Changelist" comment="" />
+      <created>1604047357626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604047357626</updated>
+      <workItem from="1604047358712" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1604047380896">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604047380896" />
+  </component>
+</project>
