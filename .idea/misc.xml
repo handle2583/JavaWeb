@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/My-Blog" />
+    <file type="web" url="file://$PROJECT_DIR$/../../src/main/java" />
+    <file type="web" url="file://$PROJECT_DIR$/../../src/test/java" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson/pom.xml" />
+        <option value="$PROJECT_DIR$/gitdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/My-Blog/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="jdk1.8.0_121" project-jdk-type="JavaSDK" />
+</project>
