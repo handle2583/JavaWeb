@@ -6,6 +6,9 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
+/**
+ * @author miaojian_v
+ */
 public interface UserRepository extends JpaRepository<User, Long> {
     /**
      * @param pageable
@@ -29,6 +32,7 @@ public interface UserRepository extends JpaRepository<User, Long> {
     /**
      * @param id
      */
+    @Override
     void deleteById(Long id);
 }
 
