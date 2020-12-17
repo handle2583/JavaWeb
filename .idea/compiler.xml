@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lesson-web" />
-        <module name="my-blog" />
         <module name="elasticsearch" />
         <module name="gitdemo" />
       </profile>
